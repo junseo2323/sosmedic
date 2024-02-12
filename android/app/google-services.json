@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500529461631",
+    "project_id": "sosmedic",
+    "storage_bucket": "sosmedic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500529461631:android:e27a9f54e23f3fcdd1024a",
+        "android_client_info": {
+          "package_name": "com.sosmedic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGIHSLQTxPf-uOHvLO6vBFT4VbGoPLOaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
